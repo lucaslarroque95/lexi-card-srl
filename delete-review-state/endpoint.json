@@ -1,0 +1,4 @@
+{
+  "method": "DELETE",
+  "path": "/review-states/{review_state_id}"
+}

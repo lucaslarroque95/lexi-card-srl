@@ -1,0 +1,4 @@
+{
+  "method": "PUT",
+  "path": "/review-states/{review_state_id}"
+}

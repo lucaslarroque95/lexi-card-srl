@@ -1,0 +1,4 @@
+{
+  "method": "PUT",
+  "path": "/languages/{language_id}"
+}

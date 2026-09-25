@@ -1,0 +1,4 @@
+{
+  "method": "DELETE",
+  "path": "/concepts/{concept_id}"
+}

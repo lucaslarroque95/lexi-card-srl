@@ -1,0 +1,4 @@
+{
+  "method": "GET",
+  "path": "/review-states/{review_state_id}"
+}

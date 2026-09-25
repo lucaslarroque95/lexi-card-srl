@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+dist/
+infra/.terraform/
+infra/*.tfstate
+infra/*.tfstate.*
+infra/routes.auto.tfvars.json

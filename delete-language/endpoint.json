@@ -1,0 +1,4 @@
+{
+  "method": "DELETE",
+  "path": "/languages/{language_id}"
+}

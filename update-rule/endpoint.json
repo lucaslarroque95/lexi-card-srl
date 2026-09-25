@@ -1,0 +1,4 @@
+{
+  "method": "PUT",
+  "path": "/rules/{rule_id}"
+}

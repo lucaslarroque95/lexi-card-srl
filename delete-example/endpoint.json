@@ -1,0 +1,4 @@
+{
+  "method": "DELETE",
+  "path": "/examples/{example_id}"
+}

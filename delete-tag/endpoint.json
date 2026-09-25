@@ -1,0 +1,4 @@
+{
+  "method": "DELETE",
+  "path": "/tags/{tag_id}"
+}

@@ -1,0 +1,4 @@
+{
+  "method": "DELETE",
+  "path": "/cards/{card_id}"
+}

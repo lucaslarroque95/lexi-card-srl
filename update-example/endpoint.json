@@ -1,0 +1,4 @@
+{
+  "method": "PUT",
+  "path": "/examples/{example_id}"
+}
