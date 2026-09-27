@@ -41,6 +41,8 @@ resource "aws_lambda_function" "card" {
   }
 
   environment {
-    variables = local.postgres_env
+    variables = merge(local.postgres_env, {
+      JWT_PUBLIC_KEY_SECRET_ARN = local.foundation.jwt_public_key_secret_arn
+    })
   }
 }
